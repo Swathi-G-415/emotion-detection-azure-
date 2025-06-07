@@ -1,0 +1,8 @@
+{
+  "sentiment": "positive",
+  "confidenceScores": {
+    "positive": 0.96,
+    "neutral": 0.03,
+    "negative": 0.01
+  }
+}
